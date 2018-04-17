@@ -18,3 +18,6 @@ Correlation is a statistical measure that indicates the extent to which two or m
 6) Regression : The relation between house prices and house area is taken and checked how close is the relation with lots of characteristics to see from.
 
 7) Markowitz_Algorithm : The algorithm that determines the best combination of weights in a pportfolio to get the minimum risk and maximum returns.
+
+8) BETA and Beta_for_PG : Beta is a variable that tells about how much a stock moves with respect to the market.
+If BETA < 1 then stock is defensive , if BETA > 1 then stock is positive, if BETA = 0 then there is no relationship.
