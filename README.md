@@ -20,4 +20,4 @@ Correlation is a statistical measure that indicates the extent to which two or m
 7) Markowitz_Algorithm : The algorithm that determines the best combination of weights in a pportfolio to get the minimum risk and maximum returns.
 
 8) BETA and Beta_for_PG : Beta is a variable that tells about how much a stock moves with respect to the market.
-If BETA < 1 then stock is defensive , if BETA > 1 then stock is positive, if BETA = 0 then there is no relationship.
+If BETA < 1 then stock is defensive , if BETA > 1 then stock is aggressive, if BETA = 0 then there is no relationship.
